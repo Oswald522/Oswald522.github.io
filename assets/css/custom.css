@@ -1,0 +1,5 @@
+/* 调整文章内容宽度 */
+.article-content {
+    max-width: 1200px; /* 根据需要调整宽度 */
+    margin: 0 auto;   /* 居中显示 */
+}
